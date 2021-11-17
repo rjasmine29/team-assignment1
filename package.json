@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.17.1"
   },
   "devDependencies": {
@@ -12,5 +13,20 @@
     "dev": "nodemon app",
     "test": "jest --watchAll --silent -- watch",
     "coverage": "jest --coverage --silent"
-  }
+  },
+  "name": "team-assignment1",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umalik00/team-assignment1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umalik00/team-assignment1/issues"
+  },
+  "homepage": "https://github.com/umalik00/team-assignment1#readme"
 }
