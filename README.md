@@ -27,8 +27,10 @@ and give advice on each part as well as committing each major change.
 
 
 ### Wins & Challenges
-#### Wins:
+Wins:
 * A homepage with buttons to different sites. 
 * Successful google search results
-#### Challenges:
-Some tasks took longer than expected. 
+
+Challenges:
+* Some tasks took longer than expected. 
+
